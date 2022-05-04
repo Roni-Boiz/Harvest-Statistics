@@ -3,7 +3,7 @@ This repo provide a modern world solution to Harvest Statistics problem in a sta
 Our objective is to record daily harvest quantities and use those records to get statistical reports.
 Then we will able to calculate the maximum, minimum, average, and median harvest of a particular month.
 
-> Need scala versions equal or upper than : **2.13.5**
+> Need Scala version equal or upper than : **2.13.5**
 
 ## Solution
 We will store the daily harvest of the state in a **Array(row-week, column-day)**.
